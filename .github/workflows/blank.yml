@@ -28,4 +28,4 @@ jobs:
 
       - name: time_push
         run: |
-          python3 .github/workflows/main.py
+          python3 ./main.py
